@@ -1,6 +1,6 @@
 # nginx-reverse-proxy
 
-![Proxy](images/proxy.png)
+[![Proxy](images/proxy.png)](http://codeblog.free.nf/wp-content/uploads/2025/03/Untitled-300x169.jpg)
 
 This is a repository which shows how to setup nginx reverse proxy to route requests to different servers.
 
