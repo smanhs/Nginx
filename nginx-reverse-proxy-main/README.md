@@ -26,6 +26,6 @@ docker-compose up
 
 ## Read about it here
 
-- [Read on HashNode](https://dipchak.hashnode.dev/nginx-reverse-proxy-using-docker)
+- [Read on codeBlog](http://codeblog.free.nf/2025/03/06/nginx-practical-guide/)
 
-- [Read on Medium](https://diptochakrabarty.medium.com/nginx-reverse-proxy-using-docker-8c3d0f00b27b)
+  
